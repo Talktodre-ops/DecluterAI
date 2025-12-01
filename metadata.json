@@ -1,0 +1,7 @@
+{
+  "name": "DeclutterAI",
+  "description": "An AI-powered room organization and decluttering assistant. Upload photos of your space to get personalized advice and chat with an expert AI organizer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
